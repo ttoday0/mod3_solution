@@ -1,0 +1,58 @@
+:root {
+	--nav-color: #b8b8b8
+}
+
+*, html {
+	box-sizing: border-box;
+}
+
+.navbar-brand {
+	font-size: 2rem !important;
+	padding: 10px;
+}
+
+.navbar-toggler {
+	margin: 10px;
+}
+
+.navbar{
+	padding: 0 !important
+}
+
+h2, h5 {
+	text-align: center;
+}
+
+h2 {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+p {
+	margin: 10px 20px;
+}
+
+.navbar {
+	border: 2px solid black;
+}
+
+.nav-color {
+	background-color: var(--nav-color);
+}
+
+.nav-item {
+	border: 1px solid black;
+}
+
+.nav-text {
+	color: black;
+}
+
+.col {
+	width: 98vw !important;
+}
+
+.food {
+	background-color: lightgray;
+	margin: 10px
+}
